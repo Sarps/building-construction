@@ -1,0 +1,9 @@
+{
+  "name": "estate-planner",
+  "version": "1.0.0",
+  "dependencies": {
+    "clipboard": "^2.0.11",
+    "scenegraph": "^0.1.0",
+    "svg-path-properties": "^1.1.0"
+  }
+}
